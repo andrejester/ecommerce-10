@@ -2,8 +2,8 @@
 /public/hot
 public/storage
 /vendor
-/storage/*
-!/storage/app/public
+storage/*
+storage/app/public
 .env
 .env.backup
 .phpunit.result.cache
